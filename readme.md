@@ -1,8 +1,6 @@
 ![AuthNet Intro Image](https://github.com/eshangonemad/AuthNet/blob/main/AuthNet.png?raw=true)
 
-AuthNet is a blockchain based certification system that uses Web3 decentralisation technology to ensure that certifications that are issued are authentic and valid. This system ensures that certifications are issued legitametly and are procured by offcial means, this technology helps eradicate forged certifications as all certificates are issued by issuing authorities and are stored in the blockchain, which makes forging certifications impossible. 
-
-This project is made possible by the Solidity language developed by the Ethereum Foundation.
+AuthNet is a blockchain-based certification system that uses Web3 decentralization technology to ensure that certifications that are issued are authentic and valid. This system ensures that certifications are issued legitimately and are procured by official means. This technology helps eradicate forged certifications as all certificates are issued by issuing authorities and are stored in the blockchain, which makes forging certifications impossible. This project is made possible by the Solidity language developed by the Ethereum Foundation.
 
 ## Licensing
 
